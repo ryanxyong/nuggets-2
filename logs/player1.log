@@ -1,0 +1,42 @@
+START OF LOG
+player on port 57612
+background bot mode
+OK message received: OK A
+GRID message received: GRID 5 15
+GOLD message received: GOLD 0 0 250
+GOLD message received: GOLD 0 0 198
+GOLD message received: GOLD 172 172 26
+GOLD message received: GOLD 0 172 25
+GOLD message received: GOLD 0 172 24
+GOLD message received: GOLD 0 172 23
+GOLD message received: GOLD 0 172 22
+GOLD message received: GOLD 0 172 21
+GOLD message received: GOLD 0 172 20
+GOLD message received: GOLD 1 173 19
+GOLD message received: GOLD 0 173 18
+GOLD message received: GOLD 0 173 17
+GOLD message received: GOLD 0 173 16
+GOLD message received: GOLD 0 173 15
+GOLD message received: GOLD 0 173 14
+GOLD message received: GOLD 0 173 13
+GOLD message received: GOLD 0 173 12
+GOLD message received: GOLD 0 173 11
+GOLD message received: GOLD 0 173 10
+GOLD message received: GOLD 0 173 9
+GOLD message received: GOLD 0 173 8
+GOLD message received: GOLD 0 173 7
+GOLD message received: GOLD 0 173 6
+GOLD message received: GOLD 0 173 5
+GOLD message received: GOLD 0 173 4
+GOLD message received: GOLD 0 173 3
+GOLD message received: GOLD 0 173 2
+GOLD message received: GOLD 0 173 1
+GOLD message received: GOLD 0 173 0
+QUIT message received: QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+END OF LOG

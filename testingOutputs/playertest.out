@@ -1,0 +1,68 @@
+valgrind ./playertest
+==21417== Memcheck, a memory error detector
+==21417== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==21417== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==21417== Command: ./playertest
+==21417== 
+Creating new player A
+
+Testing player getter methods:
+Player ID: A
+Player name: neha rsn
+Player location: (0, 0)
+Player's empty grid:
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+                     
+
+End of player's empty grid
+
+Testing player_move:
+Player location at start (should be (0,0)): (0, 0)
+New player location (should be (1,0)): (1, 0)
+New player location (should be (1,1)): (1, 1)
+New player location (should be (0,2)): (0, 2)
+New player location (should be (0,0)): (0, 0)
+
+Testing player_addGold:
+Player nuggets at beginning (should be 0): 0
+Player nuggets after adding 46 gold (should be 46): 46
+Player nuggets after adding 34 gold (should be 80): 80
+
+Testing player_quit:
+Print player's quit status at beginning (should be false):
+player_getQuit evaluated to false - player has not quit.
+
+Now calling player_quit. Player will be disconnected.
+Print player's quit status now (should be true):
+player_quit evaluated to true - player has quit.
+
+Testing player_delete:
+Now deleting player.
+==21417== 
+==21417== HEAP SUMMARY:
+==21417==     in use at exit: 0 bytes in 0 blocks
+==21417==   total heap usage: 27 allocs, 27 frees, 9,394 bytes allocated
+==21417== 
+==21417== All heap blocks were freed -- no leaks are possible
+==21417== 
+==21417== For counts of detected and suppressed errors, rerun with: -v
+==21417== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

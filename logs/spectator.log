@@ -1,0 +1,134 @@
+START OF LOG
+player on port 45461
+spectate
+GRID message received: GRID 5 15
+displayStart: Success
+wRows = 24
+wCols = 80
+GOLD message received: GOLD 0 0 23
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 22
+DISPLAY message received
+GOLD message received: GOLD 0 0 21
+DISPLAY message received
+GOLD message received: GOLD 0 0 20
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 19
+DISPLAY message received
+GOLD message received: GOLD 0 0 18
+DISPLAY message received
+GOLD message received: GOLD 0 0 17
+DISPLAY message received
+GOLD message received: GOLD 0 0 16
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 15
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 14
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 13
+DISPLAY message received
+GOLD message received: GOLD 0 0 12
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 11
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 10
+GOLD message received: GOLD 0 0 9
+GOLD message received: GOLD 0 0 8
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 7
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 6
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 5
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 4
+GOLD message received: GOLD 0 0 3
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 2
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 1
+DISPLAY message received
+DISPLAY message received
+DISPLAY message received
+GOLD message received: GOLD 0 0 0
+DISPLAY message received
+QUIT message received: QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+END OF LOG

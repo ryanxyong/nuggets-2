@@ -1,0 +1,6972 @@
+START OF LOG
+message_init: ready at port '42882'
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+PLAY botbg
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+OK A
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 0 250
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**@*******|  
+  |**********|  
+  |********.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**@*******|  
+  |**********|  
+  |********.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+PLAY botbg
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+OK B
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 0 250
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**@*******|  
+  |**********|  
+  |********B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**A*******|  
+  |**********|  
+  |********@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**@*******|  
+  |**********|  
+  |********B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**A*******|  
+  |**********|  
+  |********@*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 52 52 198
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 0 198
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**@*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |**A*******|  
+  |**********|  
+  |*******@.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 172 172 26
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 26
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**********|  
+  |*******@.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+PLAY botbg
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+OK C
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 0 26
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@C*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*AC*******|  
+  |**********|  
+  |*******@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A@*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@C*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*AC*******|  
+  |**********|  
+  |*******@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A@*******|  
+  |**********|  
+  |*******B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY N
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 1 25
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 25
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 25
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 2 24
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 24
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 24
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |***.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***.******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***.******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+PLAY botbg
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+OK D
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 0 24
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |***D******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***D******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***D******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***@******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |***D******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***D******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***D******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |***@******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 1 23
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 23
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 23
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 2 23
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**D.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D.******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D.******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:45461
+message_loop: 1 lines:
+SPECTATE
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 23
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**D.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D.******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D.******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D.******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+PLAY botbg
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+OK E
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GRID 5 15
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 0 23
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**DE******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@E******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D@******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**DE******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@E******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D@******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DE******|  
+  |****C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY N
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**DC******|  
+  |****E**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****E**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D@******|  
+  |****E**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@C******|  
+  |****E**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****E**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*@.*******|  
+  |**DC******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****E**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**D@******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**@C******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****@**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*A.*******|  
+  |**DC******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.@*******|  
+  |**DC******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A*******|  
+  |**DC******|  
+  |****E**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A*******|  
+  |**D@******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A*******|  
+  |**@C******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A*******|  
+  |**DC******|  
+  |****@**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A*******|  
+  |**DC******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY K
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 3 22
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 22
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 22
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 1 22
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 0 22
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 22
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.@C******|  
+  |**D.******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |**D.******|  
+  |****E**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A@******|  
+  |**D.******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |**@.******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |**D.******|  
+  |****@**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |**D.******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 2 21
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 21
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 21
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 3 21
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 0 21
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 21
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.@C******|  
+  |*D..******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..******|  
+  |****E**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A@******|  
+  |*D..******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*@..******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..******|  
+  |****@**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..******|  
+  |****E**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 1 1 20
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 172 20
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 20
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 3 20
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 2 20
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 20
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.@C******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..E*****|  
+  |****.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A@******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*@..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..@*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY B
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.@C******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..E*****|  
+  |****.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.A@******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*@..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..@*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*.AC******|  
+  |*D..E*****|  
+  |****.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY J
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 1 173 19
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 19
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 3 19
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 2 19
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 1 19
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 19
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..C******|  
+  |*D..E*****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..C******|  
+  |*D..E*****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..@******|  
+  |*D..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..C******|  
+  |*@..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..C******|  
+  |*D..@*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*..C******|  
+  |*D..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 4 18
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 18
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 18
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 2 18
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 1 18
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 18
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...C*****|  
+  |*D..E*****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...C*****|  
+  |*D..E*****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...@*****|  
+  |*D..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...C*****|  
+  |*@..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...C*****|  
+  |*D..@*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |*...C*****|  
+  |*D..E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY y
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 3 17
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 17
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 17
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 4 17
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 1 17
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 17
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*...E*****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*...E*****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...@*****|  
+  |*...E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...C*****|  
+  |*...E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*...@*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*...E*****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 1 2 16
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 16
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 52 16
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 4 16
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 3 16
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 16
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...@*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....@****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY J
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...@*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....@****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...@*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....@****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D...C*****|  
+  |*....E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...@E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*...CE****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C@****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**A*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...@E****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*...CE****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C@****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...CE****|  
+  |**A*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY b
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.****|  
+  |**@*E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.****|  
+  |**A*E**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...@.****|  
+  |**A*E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*...C.****|  
+  |**A*E**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.****|  
+  |**A*@**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.****|  
+  |**A*E**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 1 53 15
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 15
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 4 15
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 3 15
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 15
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 15
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.**B*|  
+  |**@*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.**@*|  
+  |**A*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...@.**B*|  
+  |**A*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*...C.**B*|  
+  |**A*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.**B*|  
+  |**A*@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....*****|  
+  |*...C.**B*|  
+  |**A*E**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY Y
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*D..C.**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D..C.**@*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D..@.**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*@..C.**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D..C.**B*|  
+  |**.*@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D..C.**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*D...C**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D...C**@*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D...@**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*@...C**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D...C**B*|  
+  |**.*@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*D...C**B*|  
+  |**.*E**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY N
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*....C**B*|  
+  |**D*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*....C**@*|  
+  |**D*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*....@**B*|  
+  |**D*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*....C**B*|  
+  |**@*E**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*....C**B*|  
+  |**D*@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*....C**B*|  
+  |**D*E**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY y
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*..E.C**B*|  
+  |**D*.**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**@*|  
+  |**D*.**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.@**B*|  
+  |**D*.**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**B*|  
+  |**@*.**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..@.C**B*|  
+  |**D*.**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**B*|  
+  |**D*.**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*..E.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**D*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.@**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..@.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY H
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*..E.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**D*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.@**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..@.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E.C**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*..EC.**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |**D*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E@.**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |**@*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..@C.**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |**D*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 4 14
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 14
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 14
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 4 14
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 14
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 14
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |*..EC.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |*D.*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..E@.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |*@.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..@C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A....*****|  
+  |*..EC.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...@.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*@.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..@.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY n
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...@.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*@.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..@.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...@.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*@.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..@.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*...C.**.*|  
+  |*D.*.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY B
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 5 13
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 13
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 13
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 4 13
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 13
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 13
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@..E.*****|  
+  |*.....**.*|  
+  |*D.C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |*D.C.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |*D.@.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |*@.C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..@.*****|  
+  |*.....**.*|  
+  |*D.C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |*D.C.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY H
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 5 12
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 12
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 12
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 5 12
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 12
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 12
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@..E.*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |D..C.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |D..@.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |@..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..@.*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A..E.*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..@.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |@..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..@.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |@..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY K
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..@.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |@..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D..C.**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |*.....**.*|  
+  |D...C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D...C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D...@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |@...C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |*.....**.*|  
+  |D...C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |*.....**.*|  
+  |D...C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 6 11
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 11
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 11
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 5 11
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 11
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 11
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |@.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY U
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |@.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY B
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |@.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...@*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |A...E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@..E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |@.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..@*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY b
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@..E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |@.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..@*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |D.....**.*|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY L
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 7 10
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 10
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 10
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 5 10
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 10
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 10
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 8 9
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 9
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 9
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 5 9
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 9
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 9
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 9 8
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 8
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 8
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 5 8
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 8
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 8
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@..E*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |.........D|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |.........D|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |.........@|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..@*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.A..E*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY H
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.@..*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |.........D|  
+  |....C**@.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |.........D|  
+  |....@**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |.........@|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.A..*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |.........D|  
+  |....C**B.*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY u
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.@..*****|  
+  |........BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |........@D|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |........BD|  
+  |....@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |........B@|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.A..*****|  
+  |........BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E.A..*****|  
+  |........BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..@.....BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....@D|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |....@**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....B@|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |..A.....BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |....C**..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 6 7
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 7
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 7
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 9 7
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 7
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 7
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..@.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....@D|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |.....@*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....B@|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY u
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..@.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....@D|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |.....@*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....B@|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |E....*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..@.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A.....@D|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A.....BD|  
+  |.....@*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A.....B@|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@...*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A.....BD|  
+  |.....C*..*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..@......D|  
+  |.....C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A......D|  
+  |.....C*.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A......D|  
+  |.....@*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A......@|  
+  |.....C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@...*****|  
+  |..A......D|  
+  |.....C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..A......D|  
+  |.....C*.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..@..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..C*.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..@*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........@|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@...*****|  
+  |.........D|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY J
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..@..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..C*.@*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..@*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........@|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@...*****|  
+  |.........D|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |.........D|  
+  |..A..C*.B*|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 1 10 6
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 6
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 6
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 6 6
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 6
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 6
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..........|  
+  |..@..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..........|  
+  |..A..C*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..........|  
+  |..A..@*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..........|  
+  |..A..C*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.@...*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.E...*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..@..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..@*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..@..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..@..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..@*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..@..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY J
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..@..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..@*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..@..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..*****|  
+  |..........|  
+  |..A..C*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY U
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 7 5
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 5
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 5
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 5
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 5
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 5
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..@...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**@**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..@..**C**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY L
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..@...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**@**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..@..**C**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |..E..**C**|  
+  |..........|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..@...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*.@D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..E.......|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*.B@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.......|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*.BD|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..@...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*@.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..E.......|  
+  |..A...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*B.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.......|  
+  |..A...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |..A...*B.D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.@....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*@.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.@....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*@.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY B
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.@....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*@.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..E.......|  
+  |.A....*B.D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..........|  
+  |.@E...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..........|  
+  |.AE...*@.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..........|  
+  |.AE...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..........|  
+  |.AE...*B.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..........|  
+  |.A@...*B.D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..........|  
+  |.AE...*B.D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY u
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |........B.|  
+  |.@E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |........@.|  
+  |.AE...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |........B.|  
+  |.AE...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |........B.|  
+  |.AE...*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |........B.|  
+  |.A@...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |........B.|  
+  |.AE...*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY u
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..@.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..A.....@.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**@**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..A.....B.|  
+  |..E...*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..A.....B.|  
+  |..@...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....**C**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY H
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 8 4
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 4
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 4
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 4
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 4
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 4
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 9 3
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 3
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 53 3
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 3
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 3
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 3
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..@.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....@.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.......**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..E...*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..@...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..@.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....@.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.......**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..E...*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..@...*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |..E...*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..@.....B.|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....@.|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.......**|  
+  |..A.....B.|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |...E..*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |...@..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A.....B.|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..@......B|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A......@|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.......**|  
+  |..A......B|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A......B|  
+  |...E..*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A......B|  
+  |...@..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |..A......B|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY L
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |........B@|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |........@A|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@.......**|  
+  |........BA|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |........BA|  
+  |...E..*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |........BA|  
+  |...@..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |C.......**|  
+  |........BA|  
+  |...E..*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY J
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........B@|  
+  |C..E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........@A|  
+  |C..E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |@..E..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..E..*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..@..*..D|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..E..*..D|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY h
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........B@|  
+  |C..E..*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........@A|  
+  |C..E..*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |@..E..*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..E..*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..@..*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C..E..*.D.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........B@|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........@A|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |@...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C...@.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........**|  
+  |........BA|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 1 54 2
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 2
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 9 2
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 2
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 2
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 2
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........A|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........A|  
+  |@...E.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........A|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........A|  
+  |C...@.*.D.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........A|  
+  |C...E.*.D.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY b
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY U
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY y
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........D|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |@...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........@|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...@.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........B*|  
+  |.........D|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY y
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........D*|  
+  |.........B|  
+  |C...E.*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........D*|  
+  |.........@|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........D*|  
+  |.........B|  
+  |@...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........@*|  
+  |.........B|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........D*|  
+  |.........B|  
+  |C...@.*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |........D*|  
+  |.........B|  
+  |C...E.*..A|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY K
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |C.....*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........@|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |@.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...@*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....@...D*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |C.....*..@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........@|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |@.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...@*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....@...D*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |.........B|  
+  |C.....*..A|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY y
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........@B|  
+  |C.....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........A@|  
+  |C.....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........AB|  
+  |@.....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...@*|  
+  |........AB|  
+  |C.....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....@...D*|  
+  |........AB|  
+  |C.....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........AB|  
+  |C.....*...|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........@B|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........A@|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........AB|  
+  |.@....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...@*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....@...D*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |....E...D*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY H
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........@B|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........A@|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.@....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....@...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........@B|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........A@|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.@....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....@...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY n
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........@B|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........A@|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.@....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....@...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |........AB|  
+  |.C....*...|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:57612
+message_loop: 1 lines:
+KEY j
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.C....*.@.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........@|  
+  |.C....*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.@....*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....E...*|  
+  |.........B|  
+  |.C....*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....@...*|  
+  |.........B|  
+  |.C....*.A.|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.C....*.A.|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:52968
+message_loop: 1 lines:
+KEY L
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 1 10 1
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 1
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 0 54 1
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 1
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 1
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 1
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.......@.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........@|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.......A.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |@....E...*|  
+  |.........B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....@...*|  
+  |.........B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |D....E...*|  
+  |.........B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:42168
+message_loop: 1 lines:
+KEY n
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....E...*|  
+  |.D.......B|  
+  |.......@.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....E...*|  
+  |.D.......@|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....E...*|  
+  |.D.......B|  
+  |.......A.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....E...*|  
+  |.@.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....@...*|  
+  |.D.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |.....E...*|  
+  |.D.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:55507
+message_loop: 1 lines:
+KEY l
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..*|  
+  |.D.......B|  
+  |.......@.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..*|  
+  |.D.......@|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..*|  
+  |.D.......B|  
+  |.......A.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..*|  
+  |.@.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......@..*|  
+  |.D.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..*|  
+  |.D.......B|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_loop: message ready on socket
+message_loop: FROM 127.0.0.1:58159
+message_loop: 1 lines:
+KEY k
+message_send: TO 127.0.0.1:58159
+message_send: 1 lines:
+GOLD 1 55 0
+message_send: TO 127.0.0.1:57612
+message_send: 1 lines:
+GOLD 0 173 0
+message_send: TO 127.0.0.1:52968
+message_send: 1 lines:
+GOLD 0 10 0
+message_send: TO 127.0.0.1:42168
+message_send: 1 lines:
+GOLD 0 10 0
+message_send: TO 127.0.0.1:55507
+message_send: 1 lines:
+GOLD 0 2 0
+message_send: TO 127.0.0.1:45461
+message_send: 1 lines:
+GOLD 0 0 0
+message_send: TO 127.0.0.1:57612
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..B|  
+  |.D........|  
+  |.......@.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:58159
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..@|  
+  |.D........|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:52968
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..B|  
+  |.D........|  
+  |.......A.@|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:42168
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..B|  
+  |.@........|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:55507
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......@..B|  
+  |.D........|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:45461
+message_send: 7 lines:
+DISPLAY
+  +----------+  
+  |......E..B|  
+  |.D........|  
+  |.......A.C|  
+  +----------+  
+                
+
+message_send: TO 127.0.0.1:57612
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_send: TO 127.0.0.1:58159
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_send: TO 127.0.0.1:52968
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_send: TO 127.0.0.1:42168
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_send: TO 127.0.0.1:55507
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_send: TO 127.0.0.1:45461
+message_send: 6 lines:
+QUIT GAME OVER:
+A  173 botbg
+B   55 botbg
+C   10 botbg
+D   10 botbg
+E    2 botbg
+
+message_done: message module closing down.

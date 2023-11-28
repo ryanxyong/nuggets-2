@@ -1,0 +1,35 @@
+bash -v serverargtesting.sh
+#!/bin/bash
+#
+# serverargtesting.sh - tests server with various arguments
+#
+# user must provide a port number as an argument (in run.log in logs directory)
+#
+# Grace Wang, Neha Ramsurrun, Ryan Yong, May 2021
+#
+
+# No arguments
+./server
+usage: ./server map.txt [seed]
+
+# One argument - invalid map filename
+./server asdfasdfafdsasfdfasdasdfafsdasdf
+error: invalid map filename.
+
+# Two arguments - invalid map filename and valid seed
+./server asdfsdafdadfs9898 123
+error: invalid map filename.
+
+# Two arguments - valid map filename and invalid seed (negative)
+./server maps/challenge.txt -123
+error: invalid seed. must be positive integer.
+
+# Two arguments - valid filename and invalid seed (float)
+./server maps/challenge.txt -1.34
+error: invalid seed. must be positive integer.
+
+# Three arguments - valid filename, valid seed, and random third argument
+./server maps/challenge.txt 123 sample
+usage: ./server map.txt [seed]
+Makefile:56: recipe for target 'arg_test' failed
+make: *** [arg_test] Error 1
